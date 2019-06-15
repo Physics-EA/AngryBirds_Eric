@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 41dedfe6ff2a2ce419e8207c847db1b2
+timeCreated: 1476149837
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 46fe262442a7d93379781693ad4bd11371f001cf (1)_0
+    21300002: 46fe262442a7d93379781693ad4bd11371f001cf (1)_1
+    21300004: 46fe262442a7d93379781693ad4bd11371f001cf (1)_2
+    21300006: 46fe262442a7d93379781693ad4bd11371f001cf (1)_3
+    21300008: 46fe262442a7d93379781693ad4bd11371f001cf (1)_4
+    21300010: 46fe262442a7d93379781693ad4bd11371f001cf (1)_5
+    21300012: 46fe262442a7d93379781693ad4bd11371f001cf (1)_6
+    21300014: 46fe262442a7d93379781693ad4bd11371f001cf (1)_7
+    21300016: 46fe262442a7d93379781693ad4bd11371f001cf (1)_8
+    21300018: 46fe262442a7d93379781693ad4bd11371f001cf (1)_9
+    21300020: 46fe262442a7d93379781693ad4bd11371f001cf (1)_10
+    21300022: 46fe262442a7d93379781693ad4bd11371f001cf (1)_11
+    21300024: 46fe262442a7d93379781693ad4bd11371f001cf (1)_12
+    21300026: 46fe262442a7d93379781693ad4bd11371f001cf (1)_13
+    21300028: 46fe262442a7d93379781693ad4bd11371f001cf (1)_14
+    21300030: 46fe262442a7d93379781693ad4bd11371f001cf (1)_15
+    21300032: 46fe262442a7d93379781693ad4bd11371f001cf (1)_16
+    21300034: 46fe262442a7d93379781693ad4bd11371f001cf (1)_17
+    21300036: 46fe262442a7d93379781693ad4bd11371f001cf (1)_18
+    21300038: 46fe262442a7d93379781693ad4bd11371f001cf (1)_19
+    21300040: 46fe262442a7d93379781693ad4bd11371f001cf (1)_20
+    21300042: 46fe262442a7d93379781693ad4bd11371f001cf (1)_21
+    21300044: 46fe262442a7d93379781693ad4bd11371f001cf (1)_22
+    21300046: 46fe262442a7d93379781693ad4bd11371f001cf (1)_23
+    21300048: 46fe262442a7d93379781693ad4bd11371f001cf (1)_24
+    21300050: 46fe262442a7d93379781693ad4bd11371f001cf (1)_25
+    21300052: 46fe262442a7d93379781693ad4bd11371f001cf (1)_26
+    21300054: 46fe262442a7d93379781693ad4bd11371f001cf (1)_27
+    21300056: 46fe262442a7d93379781693ad4bd11371f001cf (1)_28
+    21300058: 46fe262442a7d93379781693ad4bd11371f001cf (1)_29
+    21300060: 46fe262442a7d93379781693ad4bd11371f001cf (1)_30
+    21300062: 46fe262442a7d93379781693ad4bd11371f001cf (1)_31
+    21300064: 46fe262442a7d93379781693ad4bd11371f001cf (1)_32
+    21300066: 46fe262442a7d93379781693ad4bd11371f001cf (1)_33
+    21300068: 46fe262442a7d93379781693ad4bd11371f001cf (1)_34
+    21300070: 46fe262442a7d93379781693ad4bd11371f001cf (1)_35
+    21300072: 46fe262442a7d93379781693ad4bd11371f001cf (1)_36
+    21300074: 46fe262442a7d93379781693ad4bd11371f001cf (1)_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 710
+        width: 223
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 710
+        width: 160
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 713
+        width: 89
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_3
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 801
+        width: 75
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 817
+        width: 28
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 710
+        width: 33
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_6
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 721
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_7
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 725
+        width: 29
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 237
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 594
+        width: 172
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 583
+        width: 97
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 599
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_12
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 585
+        width: 33
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 480
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 472
+        width: 188
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 412
+        width: 236
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_16
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 377
+        width: 342
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 283
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 319
+        width: 99
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_19
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 184
+        width: 271
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 94
+        width: 139
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 128
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_22
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 129
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 136
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_24
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 145
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_25
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 145
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 87
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 73
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 102
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_29
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 101
+        width: 103
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_30
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 11
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 49
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_32
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 67
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_33
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 75
+        width: 94
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 31
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_35
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 33
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_36
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 54
+        width: 102
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 46fe262442a7d93379781693ad4bd11371f001cf (1)_37
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 11
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
