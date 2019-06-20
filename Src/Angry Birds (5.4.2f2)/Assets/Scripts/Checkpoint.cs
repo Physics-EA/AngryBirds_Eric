@@ -2,10 +2,12 @@
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-public class Checkpoint : MonoBehaviour {
+public class Checkpoint : MonoBehaviour
+{
 
-	public void chooseIt()
+    public void chooseIt()
     {
+        Debug.Log(name);
         SceneManager.LoadScene(name);
     }
 }
